@@ -1,3 +1,3 @@
-# dio-trilha-java-basico
+# Desafio **Simulando Uma Conta Bancária Através Do Terminal/Console**
 
-Repositorio para exemplos do curso de Java básico pela DIO
+## Minha versão do desafio "Simulando Uma Conta Bancária Através Do Terminal/Console" para o Bootcamp Santander 2024 - Backend com Java
